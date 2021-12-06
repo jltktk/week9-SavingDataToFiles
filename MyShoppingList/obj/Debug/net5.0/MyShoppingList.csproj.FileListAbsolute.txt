@@ -1,0 +1,16 @@
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\MyShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\MyShoppingList.AssemblyInfoInputs.cache
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\MyShoppingList.AssemblyInfo.cs
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\MyShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\bin\Debug\net5.0\MyShoppingList.exe
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\bin\Debug\net5.0\MyShoppingList.deps.json
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\bin\Debug\net5.0\MyShoppingList.runtimeconfig.json
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\bin\Debug\net5.0\MyShoppingList.runtimeconfig.dev.json
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\bin\Debug\net5.0\MyShoppingList.dll
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\bin\Debug\net5.0\ref\MyShoppingList.dll
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\bin\Debug\net5.0\MyShoppingList.pdb
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\MyShoppingList.dll
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\ref\MyShoppingList.dll
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\MyShoppingList.pdb
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\MyShoppingList.genruntimeconfig.cache
+C:\Users\jurge\source\repos\DirectoriesAndFiles\MyShoppingList\obj\Debug\net5.0\MyShoppingList.csproj.AssemblyReference.cache
